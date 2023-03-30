@@ -1,0 +1,97 @@
+.yoshi {background: -webkit-linear-gradient(#97FF7E,#41FF12);
+  -webkit-background-clip: box;
+  -webkit-linear-gradient:(#FF6647,#FE3E18);
+  -webkit-text-fill: solid;
+font-family: calibri;
+font-size: 40px;
+box-shadow: 2px 2px #FF86D5;
+}
+
+.peach {color:#FFA2DD;
+font-size: 30px;
+text-shadow: 2px 2px #000000;
+}
+
+.star {color:#F7FF4F;
+text-shadow: 2px 2px #000000;
+}
+
+body {background-image:url(marioinjapan.jpg);
+background-repeat:no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover; width: 600px; height: 500px;
+}
+
+.borderone {border-style: groove;
+border-width: 7px;
+border-color:#77FF47;
+}
+
+.bordertwo {border-style: dotted;
+border-width: 7px;
+border-color:#FFA2DD;
+}
+
+img{
+opacity: 0.5;
+}
+
+img:hover {
+  opacity: 1.0;
+}
+
+a {
+font-weight:bold;
+cursor: url(N64.jpg);
+}
+
+.help {cursor: help;}
+
+#wrapper { width: 150%;
+margin-left: 150px;
+margin-right: auto;
+background-color: #EAEAEA;}
+
+header { class="yoshi"}
+
+h1 { margin: 0; padding: 10px; }
+
+nav { float: left;
+width: 90px;
+padding: 10px; }
+
+main { margin-left: 100px;
+margin-right: 100px;
+margin-top: 10px;
+padding: 10px;
+background-color: #FFFFFF; }
+
+footer { text-align: center;
+font-style: italic;
+background-color: #CCCCFF;}
+
+nav ul { list-style-type: none;
+list-style-image: url('kirby.gif');}
+
+nav a {text-decoration: none;}
+
+a:link { color: #000066;}
+
+a:hover { text-decoration: none;
+background-color: pink;
+color: #ff0000;
+list-style-image: url('kirbyhammer.gif');}
+
+img.relative {
+postion: relative;
+left: 200px;
+top: 100px;
+width: 400px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
