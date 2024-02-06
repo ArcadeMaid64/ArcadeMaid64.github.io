@@ -1,24 +1,24 @@
-.peach {background: -webkit-linear-gradient(pink,#FF86D5);
+.peach {background: -webkit-linear-gradient(#FFA2DD,#FF86D5);
   -webkit-background-clip: box;
-  -webkit-linear-gradient:(pink,#faaff0);
+  -webkit-linear-gradient:(#FF6647,#FE3E18);
   -webkit-text-fill: solid;
 font-family: calibri;
 font-size: 40px;
 box-shadow: 2px 2px #FF86D5;
 }
 
-.peach {color:#faaff0;
+.peach {color:#F7FF4F;
 font-size: 30px;
 text-shadow: 2px 2px #000000;
 }
 
-.peach {color:#F7FF4F;
+.star {color:#F7FF4F;
 text-shadow: 2px 2px #000000;
 }
 
 body {background-image:url(cutepinkbow.jpg);
 background-repeat:no-repeat;
-background-position: center center;
+background-position: left;
 background-attachment: fixed;
 background-size: cover; width: 400px; height: 500px;
 }
@@ -51,7 +51,7 @@ cursor: url(N64.jpg);
 #wrapper { width: 150%;
 margin-left: 150px;
 margin-right: auto;
-background-color: #EAEAEA;}
+background-color: #eaeaea; }
 
 header { class="yoshi"}
 
