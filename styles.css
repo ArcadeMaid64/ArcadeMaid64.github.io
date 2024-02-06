@@ -18,7 +18,7 @@ text-shadow: 2px 2px #000000;
 
 body {background-image:url(cutepinkbow.jpg);
 background-repeat:no-repeat;
-background-position: left;
+background-position: center, left;
 background-attachment: fixed;
 background-size: cover; width: 400px; height: 500px;
 }
