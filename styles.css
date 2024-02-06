@@ -48,7 +48,7 @@ cursor: url(N64.jpg);
 
 .help {cursor: help;}
 
-#wrapper { width: 150%;
+#wrapper { width: 400%;
 margin-left: 150px;
 margin-right: auto;
 background-color: #eaeaea; }
